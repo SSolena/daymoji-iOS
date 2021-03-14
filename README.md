@@ -4,6 +4,8 @@
 **기술 스택**: SwiftUI, MVVM, Swift  
 **앱 소개**:   
 10개의 감정을 선택하여 매일 다이어리를 작성할 수 있는 앱이며 감정의 위치도 함께 기록할 수 있습니다. 기록된 감정들은 감정 지도에서 확인할 수 있으며, 다른 사람의 감정에 공감을 표현할 수 있습니다.  
+**PR**:
+[PR](https://github.com/dnd-side-project/dnd-mentee-4th-8-mewe/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-Lena)
 **테스트 케이스** :
 [월말 정산 화면 View Model Test](https://github.com/dnd-side-project/dnd-mentee-4th-8-mewe/blob/develop/client/MEWE/MEWETests/MonthlyChartViewModelTests.swift)
 
