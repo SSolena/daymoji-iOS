@@ -11,6 +11,19 @@
 		6ADCE6FE25FCD44B00DC6268 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE6FD25FCD44B00DC6268 /* ContentView.swift */; };
 		6ADCE70025FCD44D00DC6268 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ADCE6FF25FCD44D00DC6268 /* Assets.xcassets */; };
 		6ADCE70325FCD44D00DC6268 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ADCE70225FCD44D00DC6268 /* Preview Assets.xcassets */; };
+		6ADCE71725FE531600DC6268 /* EmojiCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE71625FE531600DC6268 /* EmojiCalendarView.swift */; };
+		6ADCE71A25FE532F00DC6268 /* EmojiCalendarWeekView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE71925FE532F00DC6268 /* EmojiCalendarWeekView.swift */; };
+		6ADCE71E25FE534E00DC6268 /* Daily.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE71D25FE534E00DC6268 /* Daily.swift */; };
+		6ADCE72225FE53F300DC6268 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE72125FE53F300DC6268 /* CalendarView.swift */; };
+		6ADCE72825FE542D00DC6268 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE72725FE542D00DC6268 /* TodayView.swift */; };
+		6ADCE72D25FE545D00DC6268 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE72C25FE545D00DC6268 /* SignInView.swift */; };
+		6ADCE73025FE546A00DC6268 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE72F25FE546A00DC6268 /* SignUpView.swift */; };
+		6ADCE73725FE553C00DC6268 /* EmojiLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE73625FE553C00DC6268 /* EmojiLocation.swift */; };
+		6ADCE73A25FE556000DC6268 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE73925FE556000DC6268 /* Card.swift */; };
+		6ADCE73D25FE557300DC6268 /* MKPointAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE73C25FE557300DC6268 /* MKPointAnnotation.swift */; };
+		6ADCE74025FE558D00DC6268 /* MapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE73F25FE558D00DC6268 /* MapViewModel.swift */; };
+		6ADCE74325FE55C800DC6268 /* EmojiMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE74225FE55C800DC6268 /* EmojiMapView.swift */; };
+		6ADCE74625FE562000DC6268 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADCE74525FE562000DC6268 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +33,19 @@
 		6ADCE6FF25FCD44D00DC6268 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6ADCE70225FCD44D00DC6268 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6ADCE70425FCD44D00DC6268 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ADCE71625FE531600DC6268 /* EmojiCalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiCalendarView.swift; sourceTree = "<group>"; };
+		6ADCE71925FE532F00DC6268 /* EmojiCalendarWeekView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiCalendarWeekView.swift; sourceTree = "<group>"; };
+		6ADCE71D25FE534E00DC6268 /* Daily.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daily.swift; sourceTree = "<group>"; };
+		6ADCE72125FE53F300DC6268 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		6ADCE72725FE542D00DC6268 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		6ADCE72C25FE545D00DC6268 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		6ADCE72F25FE546A00DC6268 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		6ADCE73625FE553C00DC6268 /* EmojiLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiLocation.swift; sourceTree = "<group>"; };
+		6ADCE73925FE556000DC6268 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		6ADCE73C25FE557300DC6268 /* MKPointAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MKPointAnnotation.swift; sourceTree = "<group>"; };
+		6ADCE73F25FE558D00DC6268 /* MapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewModel.swift; sourceTree = "<group>"; };
+		6ADCE74225FE55C800DC6268 /* EmojiMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMapView.swift; sourceTree = "<group>"; };
+		6ADCE74525FE562000DC6268 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +78,12 @@
 		6ADCE6FA25FCD44B00DC6268 /* Daymoji */ = {
 			isa = PBXGroup;
 			children = (
+				6ADCE71525FE530000DC6268 /* Network */,
+				6ADCE71425FE52EC00DC6268 /* Utility */,
+				6ADCE70C25FE51F500DC6268 /* User */,
+				6ADCE70F25FE523300DC6268 /* Calendar */,
+				6ADCE70D25FE520500DC6268 /* Diary */,
+				6ADCE70E25FE521500DC6268 /* Map */,
 				6ADCE6FB25FCD44B00DC6268 /* DaymojiApp.swift */,
 				6ADCE6FD25FCD44B00DC6268 /* ContentView.swift */,
 				6ADCE6FF25FCD44D00DC6268 /* Assets.xcassets */,
@@ -67,6 +99,141 @@
 				6ADCE70225FCD44D00DC6268 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6ADCE70C25FE51F500DC6268 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE71025FE525000DC6268 /* Sign Up */,
+				6ADCE71125FE526800DC6268 /* Sign In */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		6ADCE70D25FE520500DC6268 /* Diary */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72425FE541200DC6268 /* View */,
+			);
+			path = Diary;
+			sourceTree = "<group>";
+		};
+		6ADCE70E25FE521500DC6268 /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE73225FE547A00DC6268 /* View */,
+				6ADCE73525FE552100DC6268 /* ViewModel */,
+				6ADCE73425FE551C00DC6268 /* Model */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		6ADCE70F25FE523300DC6268 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE71C25FE534600DC6268 /* Model */,
+				6ADCE71225FE52E000DC6268 /* View */,
+			);
+			path = Calendar;
+			sourceTree = "<group>";
+		};
+		6ADCE71025FE525000DC6268 /* Sign Up */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72525FE542100DC6268 /* View */,
+			);
+			path = "Sign Up";
+			sourceTree = "<group>";
+		};
+		6ADCE71125FE526800DC6268 /* Sign In */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72625FE542600DC6268 /* View */,
+			);
+			path = "Sign In";
+			sourceTree = "<group>";
+		};
+		6ADCE71225FE52E000DC6268 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE71625FE531600DC6268 /* EmojiCalendarView.swift */,
+				6ADCE71925FE532F00DC6268 /* EmojiCalendarWeekView.swift */,
+				6ADCE72125FE53F300DC6268 /* CalendarView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6ADCE71425FE52EC00DC6268 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		6ADCE71525FE530000DC6268 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		6ADCE71C25FE534600DC6268 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE71D25FE534E00DC6268 /* Daily.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6ADCE72425FE541200DC6268 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72725FE542D00DC6268 /* TodayView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6ADCE72525FE542100DC6268 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72F25FE546A00DC6268 /* SignUpView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6ADCE72625FE542600DC6268 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE72C25FE545D00DC6268 /* SignInView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6ADCE73225FE547A00DC6268 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE74225FE55C800DC6268 /* EmojiMapView.swift */,
+				6ADCE74525FE562000DC6268 /* MapView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6ADCE73425FE551C00DC6268 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE73625FE553C00DC6268 /* EmojiLocation.swift */,
+				6ADCE73925FE556000DC6268 /* Card.swift */,
+				6ADCE73C25FE557300DC6268 /* MKPointAnnotation.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6ADCE73525FE552100DC6268 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				6ADCE73F25FE558D00DC6268 /* MapViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +306,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				6ADCE6FE25FCD44B00DC6268 /* ContentView.swift in Sources */,
+				6ADCE71E25FE534E00DC6268 /* Daily.swift in Sources */,
+				6ADCE72225FE53F300DC6268 /* CalendarView.swift in Sources */,
+				6ADCE72825FE542D00DC6268 /* TodayView.swift in Sources */,
+				6ADCE74025FE558D00DC6268 /* MapViewModel.swift in Sources */,
 				6ADCE6FC25FCD44B00DC6268 /* DaymojiApp.swift in Sources */,
+				6ADCE74325FE55C800DC6268 /* EmojiMapView.swift in Sources */,
+				6ADCE74625FE562000DC6268 /* MapView.swift in Sources */,
+				6ADCE71725FE531600DC6268 /* EmojiCalendarView.swift in Sources */,
+				6ADCE72D25FE545D00DC6268 /* SignInView.swift in Sources */,
+				6ADCE73D25FE557300DC6268 /* MKPointAnnotation.swift in Sources */,
+				6ADCE73725FE553C00DC6268 /* EmojiLocation.swift in Sources */,
+				6ADCE73025FE546A00DC6268 /* SignUpView.swift in Sources */,
+				6ADCE71A25FE532F00DC6268 /* EmojiCalendarWeekView.swift in Sources */,
+				6ADCE73A25FE556000DC6268 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

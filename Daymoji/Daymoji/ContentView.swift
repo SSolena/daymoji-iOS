@@ -13,3 +13,25 @@ struct ContentView: View {
             .padding()
     }
 }
+struct TabsView: View {
+    @State private var selection = 2
+    var body: some View {
+        TabView(selection: $selection) {
+            CalendarView()
+                .tabItem {
+                    Image("Tabs1")
+                    Text("감정 달력")
+                }
+            TodayView()
+                .tabItem {
+                    Image("Tabs2")
+                    Text("감정 기록")
+                }
+            EmojiMapView()
+                .tabItem {
+                    Image("Tabs3")
+                    Text("감정 지도")
+                }
+        }
+    }
+}
