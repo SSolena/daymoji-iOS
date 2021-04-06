@@ -13,6 +13,8 @@
 
 D&D 동아리에서 진행하던 [프로젝트](https://github.com/dnd-side-project/dnd-mentee-4th-8-mewe/tree/develop/client)를 디벨롭시켜 진행 예정입니다!
 
+# 코드는 [프로젝트](https://github.com/dnd-side-project/dnd-mentee-4th-8-mewe/tree/develop/client) <- 이곳에서 확인할 수 있습니다!
+
 
 ### Intro & User
 <img src = "https://user-images.githubusercontent.com/52783516/111065750-acc3ba00-84fe-11eb-806b-082f57c5b1c7.png" width = "25%"><img src = "https://user-images.githubusercontent.com/52783516/111065752-b3523180-84fe-11eb-8dce-38d06845b936.png" width = "25%"><img src = "https://user-images.githubusercontent.com/52783516/111065756-b816e580-84fe-11eb-88ab-2b859483ed38.png" width = "25%">
